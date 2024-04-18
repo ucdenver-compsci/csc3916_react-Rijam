@@ -3,7 +3,9 @@ const Constants = {
     USER_LOGOUT: 'USER_LOGOUT',
     FETCH_MOVIES: 'FETCH_MOVIES',
     FETCH_MOVIE: 'FETCH_MOVIE',
-    SET_MOVIE: 'SET_MOVIE'
+    SET_MOVIE: 'SET_MOVIE',
+    FETCH_REVIEW: 'FETCH_REVIEW',
+    SET_REVIEW: 'SET_REVIEW'
 }
 
 export default Constants;
